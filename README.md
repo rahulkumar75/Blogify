@@ -8,11 +8,11 @@ This is a blog application built using React, Redux, and Appwrite. The applicati
 * Component-Based Architecture: The application is built with reusable components, including a Header, Footer, and dynamic content rendering with the Outlet component.
 * Error Handling: Includes basic error handling for authentication-related issues.
 # Getting Started:
-1 Clone the Repository:
-* git clone https://github.com/yourusername/blog-app.git
-2 Install Dependencies:
+1. Clone the Repository
+  * git clone https://github.com/yourusername/blog-app.git
+2. Install Dependencies:
   npm install
-3 Run the Application:
+3. Run the Application:
 * npm run dev
 
 # Technologies Used:
