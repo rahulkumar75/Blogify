@@ -9,7 +9,7 @@ This is a blog application built using React, Redux, and Appwrite. The applicati
 * Error Handling: Includes basic error handling for authentication-related issues.
 # Getting Started:
 1. Clone the Repository
-  * git clone https://github.com/rahulkumar75/blog-app.git
+  * git clone (https://github.com/rahulkumar75/Blogify.git)
 2. Install Dependencies:
   * npm install
 3. Run the Application:
