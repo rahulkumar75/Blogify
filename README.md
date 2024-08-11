@@ -1,6 +1,6 @@
 # Blog App
 This is a blog application built using React, Redux, and Appwrite. The application allows users to create, edit, and delete blog posts while managing authentication and user sessions through Appwrite.
-# Features:
+## Features:
 * User Authentication: Secure login and logout functionality using Appwrite.
 * State Management: Implemented with Redux to manage user state and session.
 * Responsive Design: The application is fully responsive and designed with Tailwind CSS for a modern look.
@@ -11,9 +11,9 @@ This is a blog application built using React, Redux, and Appwrite. The applicati
 1. Clone the Repository
   * git clone https://github.com/yourusername/blog-app.git
 2. Install Dependencies:
-  npm install
+  * npm install
 3. Run the Application:
-* npm run dev
+  * npm run dev
 
 # Technologies Used:
 * React
