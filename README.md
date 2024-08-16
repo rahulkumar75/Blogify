@@ -26,7 +26,6 @@ Key Features:
 # Technologies Used:
 * Frontend: React.js, Redux, Tailwind CSS, React Router
 * Backend:  Appwrite, Express.js
-* Database: MongoDB, Mongoose
 * Authentication: JWT, bcrypt
 * Tools: Git, GitHub, Visual Studio Code, Postman for API testing
 
