@@ -21,6 +21,15 @@ Key Features:
   - The application is built with reusable components, including a Header, Footer, and dynamic content rendering with the Outlet component.
 * Error Handling:
   - Includes basic error handling for authentication-related issues.
+
+
+# Technologies Used:
+* Frontend: React.js, Redux, Tailwind CSS, React Router
+* Backend:  Appwrite, Express.js
+* Database: MongoDB, Mongoose
+* Authentication: JWT, bcrypt
+* Tools: Git, GitHub, Visual Studio Code, Postman for API testing
+
   
 # Getting Started:
 1. Clone the Repository
@@ -29,16 +38,6 @@ Key Features:
   * npm install
 3. Run the Application:
   * npm run dev
-
-# Technologies Used:
-
-* Frontend: React.js, Redux, Tailwind CSS, React Router
-* Backend:  Appwrite, Express.js
-* Database: MongoDB, Mongoose
-* Authentication: JWT, bcrypt
-* Tools: Git, GitHub, Visual Studio Code, Postman for API testing
-
-
 
 # Libraries Install
 - npm install @reduxjs/toolkit
