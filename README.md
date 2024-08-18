@@ -7,14 +7,14 @@ Key Features:
   - Implemented secure user authentication using JWT (JSON Web Tokens) and password hashing with bcrypt, allowing users to create accounts, log in, and manage their blog posts securely.
   
 * Post Creation and Editing:
-  - Integrated a rich text editor using React Quill, enabling users to create and format blog posts with various styling options, images, and embedded media.
+  - Integrated a rich text editor using React tinymce, enabling users to create and format blog posts with various styling options, images, and embedded media.
   - Implemented autosave functionality to prevent data loss and enhance the user experience by saving drafts automatically during the editing process.
 * Responsive Design and User Interface:
   - Developed a responsive and visually appealing UI using React.js and Tailwind CSS, ensuring a consistent and engaging experience across various devices, including desktops, tablets, and mobile phones.
-  - Focused on accessibility and user experience (UX) principles to make the platform intuitive for users of all technical levels.
+  
 * Real-Time Content Management:
   - Utilized Redux for state management, allowing for real-time updates and synchronization of content across different parts of the application without page reloads.
-  - Enabled users to categorize posts, add tags, and manage blog content efficiently through a clean, organized dashboard.
+  
 * Routing:
   - React Router is used for seamless navigation between different pages of the application.
 * Component-Based Architecture:
