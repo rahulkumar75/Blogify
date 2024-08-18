@@ -5,7 +5,7 @@ Key Features:
 
 * User Authentication and Authorization:
   - Implemented secure user authentication using JWT (JSON Web Tokens) and password hashing with bcrypt, allowing users to create accounts, log in, and manage their blog posts securely.
-  - Role-based access control was established to distinguish between regular users and admins, ensuring that only authorized personnel could access specific functionalities like user management.
+  
 * Post Creation and Editing:
   - Integrated a rich text editor using React Quill, enabling users to create and format blog posts with various styling options, images, and embedded media.
   - Implemented autosave functionality to prevent data loss and enhance the user experience by saving drafts automatically during the editing process.
